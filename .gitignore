@@ -33,4 +33,7 @@ Thumbs.db
 javafx-sdk*/
 openjfx-*/
 
+# No subir archivos Word
+*.doc
+*.docx
 

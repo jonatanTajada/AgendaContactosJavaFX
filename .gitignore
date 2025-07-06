@@ -1,0 +1,36 @@
+# === JAVA ===
+*.class
+*.war
+*.ear
+
+# === BUILD FOLDERS ===
+bin/
+build/
+build.fxbuild
+out/
+target/
+
+# === ECLIPSE ===
+.settings/
+.project
+.classpath
+.metadata/
+*.iml
+
+# === IDEAS Y TEMPORALES ===
+*.log
+*.tmp
+*.swp
+*~
+
+# === SISTEMA OPERATIVO ===
+.DS_Store
+Thumbs.db
+
+# === LIBRERÍAS EXTERNAS (ajusta la ruta si tienes libs propias que no quieras subir) ===
+# Puedes comentar o quitar la línea de libs si quieres subir los .jar externos
+# lib/
+javafx-sdk*/
+openjfx-*/
+
+
